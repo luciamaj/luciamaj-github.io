@@ -1,5 +1,5 @@
 ---
-title: "Another Vision - Un'installazione interattiva"
+title: "Another Vision - L'estetica del glitch"
 layout: post
 date: 2019-03-13 22:10
 tag: [interactive installation]
