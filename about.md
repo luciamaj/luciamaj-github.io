@@ -2,7 +2,8 @@
 title: About
 layout: page
 ---
-![Profile Image]({{ site.url }}/{{ site.picture }})
+
+![Identity](/assets/images/identity/logo.png)
 
 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
@@ -21,26 +22,27 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
+	<li>SWIFT (UIKIT, SpriteKit, CoreML, Vapor)</li>
+	<li>HTML5</li>
+	<li>CSS (Sass)</li>
+	<li>CSS Frameworks (Bootstrap, Semantic UI)</li>
+	<li>Javascript (JQuery, JQuery UI)</li>
 	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
+	<li>PHP (Laravel, Lumen)</li>
+	<li>NodeJS</li>
+	<li>Dialogflow</li>
+	<li>Arduino</li>
+	<li>Max MSP</li>
 	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
+	<li>Photoshop</li>
 </ul>
-
-<h2>Projects</h2>
-
-<ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
+<ul class="skill-list">
+	<li>Photoshop</li>
+	<li>Illustrator</li>
+	<li>After Effect</li>
+	<li>Premiere</li>
+	<li>Indesign</li>
+	<li>Adobe XD</li>
+	<li>Sketch</li>
+	<li>Figma</li>
 </ul>
