@@ -21,7 +21,7 @@ Durando l'avventura il giocatore dovrà interagire con diversi personaggi, ognun
 Ma attenzione! La pericolosa notte cala in fretta e il giocatore potrà ben presto aver bisogno di un riparo. Ma chi sarà disposto ad aiutarlo?
 “Take me home” è un gioco intimo, dove la colonna sonora toccante e la bellissima grafica old-style donando un'esperienza che tocca il cuore di chiunque scelga di giocarci.
 
-![image](assets/images/take-me-home/manifesto.jpg)
+![image](/assets/images/take-me-home/manifesto.jpg)
 
 ---
 
