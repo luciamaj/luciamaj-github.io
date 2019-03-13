@@ -7,6 +7,7 @@ image: https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png
 headerImage: false
 projects: true
 hidden: true # don't count this post in blog pagination
+vimeoId: 307668062
 description: "Un'installazione interattiva realizzata l'ultimo anno allo IED"
 category: project
 author: luciamaj
