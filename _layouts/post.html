@@ -21,7 +21,9 @@ layout: page
     </div>
 {% endif %}
 
-{% include vimeo-player.html id=page.vimeoId %}
+{% if page.vimeoId %}
+    {% include vimeo-player.html id=page.vimeoId %}
+{% endif %}
 {{content}}
 
 {% if site.post-advance-links contains page.category %}

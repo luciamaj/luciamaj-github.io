@@ -1,5 +1,5 @@
 ---
-title: "Take me home - Un gioco per la GGJ"
+title: "Take Me Home - Un gioco per la GGJ"
 layout: post
 date: 2019-03-13 22:10
 tag: [unity, game development]

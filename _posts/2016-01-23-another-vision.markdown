@@ -2,7 +2,7 @@
 title: "Another Vision - Un'installazione interattiva"
 layout: post
 date: 2019-03-13 22:10
-tag: [installazione interattiva]
+tag: [interactive installation]
 image: https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png
 headerImage: false
 projects: true
