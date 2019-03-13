@@ -2,7 +2,7 @@
 title: "Take me home - Un gioco per la GGJ"
 layout: post
 date: 2019-03-13 22:10
-tag: [web development]
+tag: [unity, game]
 image: https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png
 headerImage: false
 projects: true
