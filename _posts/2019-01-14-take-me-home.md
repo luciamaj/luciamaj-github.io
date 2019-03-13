@@ -7,7 +7,7 @@ image: https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png
 headerImage: false
 projects: true
 hidden: true # don't count this post in blog pagination
-vimeoId: 
+vimeoId: 323524614
 description: "Take me home"
 category: project
 author: luciamaj
