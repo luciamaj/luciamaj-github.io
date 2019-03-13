@@ -14,6 +14,7 @@ externalLink: false
 ---
 
 ![image](/assets/images/another-vision/another-vision-1.jpg)
+![image](/assets/images/another-vision/another-vision-2.jpg)
 
 # Obiettivo:
 Stimolare una riflessione sull’importanza che ha la collettività nella declinazione della propria immagine
