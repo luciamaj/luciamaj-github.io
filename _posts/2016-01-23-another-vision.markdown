@@ -13,7 +13,7 @@ author: luciamaj
 externalLink: false
 ---
 
-![Screenshot](![image](/assets/images/another-vision/another-vision-1.jpg))
+![image](/assets/images/another-vision/another-vision-1.jpg)
 
 # Obiettivo:
 Stimolare una riflessione sull’importanza che ha la collettività nella declinazione della propria immagine
