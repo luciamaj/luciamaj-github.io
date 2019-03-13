@@ -12,13 +12,15 @@ description: "Un'installazione interattiva realizzata l'ultimo anno allo IED"
 category: project
 author: luciamaj
 externalLink: false
+
 ---
+
+# Obiettivo:
+Stimolare una riflessione sull’importanza che ha la collettività nella declinazione della propria immagine
 
 ![image](/assets/images/another-vision/another-vision-1.jpg)
 ![image](/assets/images/another-vision/another-vision-2.jpg)
 
-# Obiettivo:
-Stimolare una riflessione sull’importanza che ha la collettività nella declinazione della propria immagine
 # Progetto:
 L’installazione vuole immergere lo spettatore in un ambiente nel quale entrerà completamente, con lo scopo di fare un viaggio interiore, alla ricostruzione della propria immagine.
 L’installazione è stata concepita per almeno due fruitori che si inoltrano in un tunnel
