@@ -13,23 +13,19 @@ author: luciamaj
 externalLink: false
 ---
 
-![Screenshot](https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/assets/screen-shot.png)
+![Screenshot](![image](/assets/images/another-vision/another-vision-1.jpg))
 
-Example of project - Indigo Minimalist Jekyll Template - [Demo](http://sergiokopplin.github.io/indigo/). This is a simple and minimalist template for Jekyll for those who likes to eat noodlesss.
-
----
-
-What has inside?
-
-- Gulp
-- BrowserSync
-- Stylus
-- SVG
-- Travis
-- No JS
-- [98/100](https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fsergiokopplin.github.io%2Findigo%2F)
+# Obiettivo:
+Stimolare una riflessione sull’importanza che ha la collettività nella declinazione della propria immagine
+# Progetto:
+L’installazione vuole immergere lo spettatore in un ambiente nel quale entrerà completamente, con lo scopo di fare un viaggio interiore, alla ricostruzione della propria immagine.
+L’installazione è stata concepita per almeno due fruitori che si inoltrano in un tunnel
+completamente buio alla fine del quale, in un sottile divenire atmosferico sonoro, si trovano davanti a due monitor posti uno di fronte all’altro. Nei monitor vedranno live l’immagine l’uno dell’altro, glitchata, deformata, e frammentata. Sopra gli schermi è posta una tela che mostra invece il miscelandosi tra tutti i partecipanti in un insieme di linee.
+La loro identità si delineerà con precisione solamente attraverso l’interazione: muovendosi insieme e molto velocemente i volti dei partecipanti proiettati sulla tela posta al centro, si ricomporranno così che entrambi potranno vedere se stessi ricomposti.
 
 ---
 
-[Check it out](http://sergiokopplin.github.io/indigo/) here.
-If you need some help, just [tell me](http://github.com/sergiokopplin/indigo/issues).
+# Strumenti
+
+- MAX Msp
+
