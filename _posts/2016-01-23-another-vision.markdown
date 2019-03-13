@@ -1,15 +1,15 @@
 ---
-title: ":ramen: Indigo, minimalist jekyll theme"
+title: "Another Vision - Installazione interattiva"
 layout: post
-date: 2016-01-23 22:10
-tag: jekyll
+date: 2019-03-13 22:10
+tag: [max msp, installazione interattiva]
 image: https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png
-headerImage: true
+headerImage: false
 projects: true
 hidden: true # don't count this post in blog pagination
-description: "This is a simple and minimalist template for Jekyll for those who likes to eat noodles."
+description: "Un'installazione interattiva realizzata l'ultimo anno allo IED"
 category: project
-author: johndoe
+author: luciamaj
 externalLink: false
 ---
 
