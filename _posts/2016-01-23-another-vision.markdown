@@ -1,5 +1,5 @@
 ---
-title: "Another Vision - Installazione interattiva"
+title: "Another Vision - Un'installazione interattiva"
 layout: post
 date: 2019-03-13 22:10
 tag: [installazione interattiva]
