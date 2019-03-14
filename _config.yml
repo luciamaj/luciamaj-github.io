@@ -34,22 +34,22 @@ disqus:
    categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-# facebook: myfacebook
+# facebook: lucia.maj
 # twitter: mytwitter
 # google: mygoogle
-# instagram: myinstagram
+# instagram: jamlu_
 # pinterest: mypinterest
 linkedin: lucia-maj
 # youtube: myyoutube
 # spotify: myspotify
-github: lucia-maj
-# gitlab: mygitlab
+github: luciamaj
+gitlab: luciamaj
 # lastfm: mylastfm
-# stackoverflow: 7044681/mystackoverflow
+stackoverflow: 9231247/lucia-maj
 # quora: userquora
 # reddit: username
 # medium: medium
-# vimeo: myvimeo
+vimeo: user96173388
 # lanyrd: mylanyrd
 email: majlucia@gmail.com
 

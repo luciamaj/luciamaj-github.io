@@ -3,8 +3,8 @@ title: "Hidden Waste - I nostri sprechi invisibili"
 layout: post
 date: 2019-03-13 22:10
 tag: [interactive installation]
-image: https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png
-headerImage: false
+image: /assets/images/hidden-waste/hw-logo.png
+headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
 description: "Hidden waste, installazione interattiva per l'ambiente"
