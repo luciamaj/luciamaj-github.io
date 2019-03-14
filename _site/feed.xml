@@ -1,14 +1,16 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-03-14T00:19:46+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Lucia Maj</title><subtitle>A blog about technology and stuff related</subtitle><entry><title type="html">Another Vision - L’estetica del glitch</title><link href="http://localhost:4000/another-vision/" rel="alternate" type="text/html" title="Another Vision - L'estetica del glitch" /><published>2019-03-13T22:10:00+01:00</published><updated>2019-03-13T22:10:00+01:00</updated><id>http://localhost:4000/another-vision</id><content type="html" xml:base="http://localhost:4000/another-vision/">&lt;h1 id=&quot;obiettivo&quot;&gt;Obiettivo:&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-03-14T11:07:54+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Lucia Maj</title><subtitle>Ciao, sono Lucia Maj, sono una sviluppatrice</subtitle><entry><title type="html">Another Vision - L’estetica del glitch</title><link href="http://localhost:4000/another-vision/" rel="alternate" type="text/html" title="Another Vision - L'estetica del glitch" /><published>2019-03-13T22:10:00+01:00</published><updated>2019-03-13T22:10:00+01:00</updated><id>http://localhost:4000/another-vision</id><content type="html" xml:base="http://localhost:4000/another-vision/">&lt;h1 id=&quot;obiettivo&quot;&gt;Obiettivo:&lt;/h1&gt;
 &lt;p&gt;Stimolare una riflessione sull’importanza che ha la collettività nella declinazione della propria immagine&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/another-vision/another-vision-1.jpg&quot; alt=&quot;image&quot; /&gt;
-&lt;img src=&quot;/assets/images/another-vision/another-vision-2.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/another-vision/another-vision-gif.gif&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;progetto&quot;&gt;Progetto:&lt;/h1&gt;
 &lt;p&gt;L’installazione vuole immergere lo spettatore in un ambiente nel quale entrerà completamente, con lo scopo di fare un viaggio interiore, alla ricostruzione della propria immagine.
 L’installazione è stata concepita per almeno due fruitori che si inoltrano in un tunnel
 completamente buio alla fine del quale, in un sottile divenire atmosferico sonoro, si trovano davanti a due monitor posti uno di fronte all’altro. Nei monitor vedranno live l’immagine l’uno dell’altro, glitchata, deformata, e frammentata. Sopra gli schermi è posta una tela che mostra invece il miscelandosi tra tutti i partecipanti in un insieme di linee.
 La loro identità si delineerà con precisione solamente attraverso l’interazione: muovendosi insieme e molto velocemente i volti dei partecipanti proiettati sulla tela posta al centro, si ricomporranno così che entrambi potranno vedere se stessi ricomposti.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/another-vision/another-vision-1.jpg&quot; alt=&quot;image&quot; /&gt;
+&lt;img src=&quot;/assets/images/another-vision/another-vision-2.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -36,6 +38,8 @@ Grazie all’app è possibile programmare eventi e classificarli in una delle qu
 
 &lt;p&gt;E’ stata sviluppata anche una piattaforma web per permettere agli amministratori, grazie a una pratica dashboard, di monitorare l’attività degli utenti.&lt;/p&gt;
 
+&lt;p&gt;&lt;img src=&quot;/assets/images/wouldyou/dashboard.png&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+
 &lt;hr /&gt;
 
 &lt;h1 id=&quot;strumenti&quot;&gt;Strumenti&lt;/h1&gt;
@@ -51,7 +55,8 @@ Grazie all’app è possibile programmare eventi e classificarli in una delle qu
 
 &lt;p&gt;Si è tratta di un gioco interattivo che racconta tecnologie e strumenti moderni, ripercorrendo a ritroso la loro storia fino al Millecinquecento, attraverso le invenzioni e gli inventori che nei secoli ne hanno permesso la loro attuale realizzazione.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/giocondo/giocondo-1.png&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/giocondo/giocondo-gif.gif&quot; alt=&quot;gif&quot; /&gt;
+&lt;img src=&quot;/assets/images/giocondo/giocondo-1.png&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;il-concept&quot;&gt;Il concept:&lt;/h1&gt;
 &lt;p&gt;Le sei invenzioni che il gioco permette di esplorare sono l’elicottero, la robotica, le immersioni subacquee, l’aviazione, il ritratto femminile e il paracadute. 
@@ -68,7 +73,7 @@ Il giocatore verifica la correttezza della risposta attaccando il tassello al co
   &lt;li&gt;Arduino / C++&lt;/li&gt;
   &lt;li&gt;Raspberry / Processing&lt;/li&gt;
   &lt;li&gt;Max msp&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>luciamaj</name></author><category term="project" /><category term="arduino" /><category term="raspberry" /><category term="gioco interattivo" /><summary type="html">Il tema: Giocondo è un gioco è basato sul Leonardo da Vinci, realizzato in occasione del cinquecentesimo anniversario della morte del famoso inventore toscano. Si è tratta di un gioco interattivo che racconta tecnologie e strumenti moderni, ripercorrendo a ritroso la loro storia fino al Millecinquecento, attraverso le invenzioni e gli inventori che nei secoli ne hanno permesso la loro attuale realizzazione.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png" /></entry><entry><title type="html">Hidden Waste - I nostri sprechi invisibili</title><link href="http://localhost:4000/hidden-waste/" rel="alternate" type="text/html" title="Hidden Waste - I nostri sprechi invisibili" /><published>2019-03-13T22:10:00+01:00</published><updated>2019-03-13T22:10:00+01:00</updated><id>http://localhost:4000/hidden-waste</id><content type="html" xml:base="http://localhost:4000/hidden-waste/">&lt;p&gt;&lt;img src=&quot;/assets/images/hidden-waste/hw1.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;/ul&gt;</content><author><name>luciamaj</name></author><category term="project" /><category term="arduino" /><category term="raspberry" /><category term="gioco interattivo" /><summary type="html">Il tema: Giocondo è un gioco è basato sul Leonardo da Vinci, realizzato in occasione del cinquecentesimo anniversario della morte del famoso inventore toscano.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/giocondo/giocondo-logo-1.png" /></entry><entry><title type="html">Hidden Waste - I nostri sprechi invisibili</title><link href="http://localhost:4000/hidden-waste/" rel="alternate" type="text/html" title="Hidden Waste - I nostri sprechi invisibili" /><published>2019-03-13T22:10:00+01:00</published><updated>2019-03-13T22:10:00+01:00</updated><id>http://localhost:4000/hidden-waste</id><content type="html" xml:base="http://localhost:4000/hidden-waste/">&lt;p&gt;&lt;img src=&quot;/assets/images/hidden-waste/hw1.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;progetto&quot;&gt;Progetto:&lt;/h1&gt;
 &lt;p&gt;Hidden Waste è un’installazione interattiva frutto di una lunga ricerca sul tema dei consumo energetico domestico e l’inquinamento ambientale che ne consegue. Il suo scopo è quello di sensibilizzare e incuriosire chi interagisce con l’installazione sulla quantità di CO2 prodotta da alcuni elettrodomestici comuni, come l’asciugacapelli o il frigorifero. Attivato dallo spettatore un elettrodomenstico la quantità di CO2 che questo produce viene mostrata a schermo in modalità che variano randomicamente. La CO2 prodotta viene infatti, per esempio, mostrata in “alberi”, visualizzando sullo schermo in tempo reali quanti alberi sono necessari per smaltire il quantitativo di CO2 rilasciato nell’ambiente.&lt;/p&gt;

@@ -1,9 +1,9 @@
 # main text of home
 name: Lucia Maj
-bio: Software developer based in Milan
+bio: Ciao, sono Lucia Maj, sono una sviluppatrice
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: Ciao, sono Lucia Maj, sono una sviluppatrice
 
 # if it's an external image, update below for true
 # better with square images
@@ -30,8 +30,8 @@ permalink: /:title/
 
 # if you don't want comments in your posts, leave categories empty
 disqus:
-  # shortname: mydisqus # enter this from your disqus account
-  # categories: [blog, project] # only show disqus for posts that have these categories
+   shortname: https-luciamaj-github-io # enter this from your disqus account
+   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
 # facebook: myfacebook
@@ -56,7 +56,7 @@ email: majlucia@gmail.com
 authors:
     luciamaj:
         name: Lucia Maj
-        bio: Software developer based in Milan
+        bio: Ciao, sono Lucia Maj, sono una sviluppatrice
         external-image: false
         picture: assets/images/profile.png
         twitter: luciamaj
