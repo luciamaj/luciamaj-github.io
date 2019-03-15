@@ -30,6 +30,6 @@ La loro identità si delineerà con precisione solamente attraverso l’interazi
 
 ---
 
-# Strumenti
+# Con cosa ho programmato
 
 - Max MSP

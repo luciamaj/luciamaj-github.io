@@ -28,7 +28,7 @@ Ma non solo! SeriesInTime è lo strumento perfetto per organizzare la tua prossi
 
 ---
 
-# Strumenti
+# Con cosa ho programmato
 
 - HTML5
 - CSS3

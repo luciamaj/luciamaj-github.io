@@ -26,7 +26,7 @@ Il suo scopo è quello di sensibilizzare e incuriosire chi interagisce con l'ins
 
 ---
 
-# Strumenti
+# Con cosa ho programmato
 
 - Arduino / C++
 - Max MSP
