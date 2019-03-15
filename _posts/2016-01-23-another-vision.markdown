@@ -32,4 +32,4 @@ La loro identità si delineerà con precisione solamente attraverso l’interazi
 
 # Strumenti
 
-- MAX Msp
+- Max MSP
