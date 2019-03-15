@@ -1,13 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-03-14T11:25:52+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Lucia Maj</title><subtitle>Ciao, sono Lucia Maj, sono una sviluppatrice</subtitle><entry><title type="html">Another Vision - L’estetica del glitch</title><link href="http://localhost:4000/another-vision/" rel="alternate" type="text/html" title="Another Vision - L'estetica del glitch" /><published>2019-03-13T22:10:00+01:00</published><updated>2019-03-13T22:10:00+01:00</updated><id>http://localhost:4000/another-vision</id><content type="html" xml:base="http://localhost:4000/another-vision/">&lt;h1 id=&quot;obiettivo&quot;&gt;Obiettivo:&lt;/h1&gt;
-&lt;p&gt;Stimolare una riflessione sull’importanza che ha la collettività nella declinazione della propria immagine&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-03-15T01:21:08+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Lucia Maj</title><subtitle>Ciao, sono Lucia Maj, freelance developer con sede a Milano.</subtitle><entry><title type="html">Another Vision - L’estetica del glitch</title><link href="http://localhost:4000/another-vision/" rel="alternate" type="text/html" title="Another Vision - L'estetica del glitch" /><published>2019-03-13T23:10:00+01:00</published><updated>2019-03-13T23:10:00+01:00</updated><id>http://localhost:4000/another-vision</id><content type="html" xml:base="http://localhost:4000/another-vision/">&lt;h1 id=&quot;progetto&quot;&gt;Progetto:&lt;/h1&gt;
+&lt;p&gt;L’installazione vuole immergere lo spettatore in un ambiente nel quale entrerà completamente, con lo scopo di fare un viaggio interiore per ricostruire la propria immagine. L’obiettivo è quello di stimolare una riflessione sull’importanza che ha la collettività nella declinazione della propria immagine.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/another-vision/another-vision-gif.gif&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
 
-&lt;h1 id=&quot;progetto&quot;&gt;Progetto:&lt;/h1&gt;
-&lt;p&gt;L’installazione vuole immergere lo spettatore in un ambiente nel quale entrerà completamente, con lo scopo di fare un viaggio interiore, alla ricostruzione della propria immagine.
-L’installazione è stata concepita per almeno due fruitori che si inoltrano in un tunnel
-completamente buio alla fine del quale, in un sottile divenire atmosferico sonoro, si trovano davanti a due monitor posti uno di fronte all’altro. Nei monitor vedranno live l’immagine l’uno dell’altro, glitchata, deformata, e frammentata. Sopra gli schermi è posta una tela che mostra invece il miscelandosi tra tutti i partecipanti in un insieme di linee.
-La loro identità si delineerà con precisione solamente attraverso l’interazione: muovendosi insieme e molto velocemente i volti dei partecipanti proiettati sulla tela posta al centro, si ricomporranno così che entrambi potranno vedere se stessi ricomposti.&lt;/p&gt;
+&lt;p&gt;L’installazione è stata concepita per almeno due visitatori che si inoltrano in un tunnel
+completamente buio alla fine del quale, in un sottile divenire atmosferico sonoro, si trovano davanti a due monitor posti uno di fronte all’altro. Nei monitor vedranno live l’immagine l’uno dell’altro, glitchata, deformata, e frammentata. Sopra gli schermi una proiezione mostra invece il miscelarsi delle immagini in un insieme di linee interlacciate.
+La loro identità si delineerà con precisione solamente attraverso l’interazione: muovendosi insieme e molto velocemente i volti dei partecipanti proiettati sulla tela posta al centro si ricomporranno così che entrambi potranno vedere la propria immagine ricomposta.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/another-vision/another-vision-1.jpg&quot; alt=&quot;image&quot; /&gt;
 &lt;img src=&quot;/assets/images/another-vision/another-vision-2.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
@@ -18,13 +16,42 @@ La loro identità si delineerà con precisione solamente attraverso l’interazi
 
 &lt;ul&gt;
   &lt;li&gt;MAX Msp&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>luciamaj</name></author><category term="project" /><category term="interactive installation" /><summary type="html">Obiettivo: Stimolare una riflessione sull’importanza che ha la collettività nella declinazione della propria immagine</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png" /></entry><entry><title type="html">Take Me Home - Il viaggio verso casa</title><link href="http://localhost:4000/take-me-home/" rel="alternate" type="text/html" title="Take Me Home - Il viaggio verso casa" /><published>2019-03-13T22:10:00+01:00</published><updated>2019-03-13T22:10:00+01:00</updated><id>http://localhost:4000/take-me-home</id><content type="html" xml:base="http://localhost:4000/take-me-home/">&lt;h1 id=&quot;progetto&quot;&gt;Progetto:&lt;/h1&gt;
-&lt;p&gt;“Take me home” è un gioco che parla di un viaggio. Che parla di scoperte. Che parla di aiutare il prossimo. Perché la casa non è l’edificio che abitiamo, ma gli affetti e le amicizie che stringiamo durante la nostra vita. La storia racconta il cammino di un viaggiatore che sta cercando di tornare a sua casa, superando numerosi ostacoli lungo il suo cammino.
-Durando l’avventura il giocatore dovrà interagire con diversi personaggi, ognuno di questi avrà una richiesta che dovremo decidere se soddisfare o meno. 
-Ma attenzione! La pericolosa notte cala in fretta e il giocatore potrà ben presto aver bisogno di un riparo. Ma chi sarà disposto ad aiutarlo?
-“Take me home” è un gioco intimo, dove la colonna sonora toccante e la bellissima grafica old-style donando un’esperienza che tocca il cuore di chiunque scelga di giocarci.&lt;/p&gt;
+&lt;/ul&gt;</content><author><name>luciamaj</name></author><category term="project" /><category term="interactive installation" /><summary type="html">Progetto: L’installazione vuole immergere lo spettatore in un ambiente nel quale entrerà completamente, con lo scopo di fare un viaggio interiore per ricostruire la propria immagine. L’obiettivo è quello di stimolare una riflessione sull’importanza che ha la collettività nella declinazione della propria immagine.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png" /></entry><entry><title type="html">Giocondo - In memoria di Leonardo</title><link href="http://localhost:4000/giocondo/" rel="alternate" type="text/html" title="Giocondo - In memoria di Leonardo" /><published>2019-03-13T23:09:00+01:00</published><updated>2019-03-13T23:09:00+01:00</updated><id>http://localhost:4000/giocondo</id><content type="html" xml:base="http://localhost:4000/giocondo/">&lt;h1 id=&quot;il-tema&quot;&gt;Il tema:&lt;/h1&gt;
+&lt;p&gt;Giocondo è un gioco ispirato a Leonardo da Vinci, realizzato in occasione del  cinquecentesimo anniversario della morte del famoso inventore toscano.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/take-me-home/manifesto.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Si è tratta di un gioco interattivo che racconta tecnologie e strumenti moderni, ripercorrendo a ritroso la loro storia fino al Millecinquecento, attraverso le invenzioni e gli inventori che nei secoli ne hanno permesso la loro attuale realizzazione.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/giocondo/giocondo-gif.gif&quot; alt=&quot;gif&quot; /&gt;
+&lt;img src=&quot;/assets/images/giocondo/giocondo-1.png&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;il-concept&quot;&gt;Il concept:&lt;/h1&gt;
+&lt;p&gt;Le sei invenzioni che il gioco permette di esplorare sono l’elicottero, la robotica, le immersioni subacquee, l’aviazione, il ritratto femminile e il paracadute. 
+Attraverso una serie di domande e indizi su una di queste sei tematiche, Giocondo spinge il giocatore a cercare tra i tasselli quelli che riportano la risposta alla domanda visualizzata sullo schermo al centro del gioco e proiettata sulle pareti della stanza in cui è posto Giocondo. 
+Il giocatore verifica la correttezza della risposta attaccando il tassello al corpo principale del gioco e continua così fino a riempire tutti gli spazi destinati a raccogliere i tasselli, completando il livello e ripercorrendo la storia dell’invenzione fino al Millecinquecento.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/giocondo/giocondo-2.png&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&quot;strumenti&quot;&gt;Strumenti&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Arduino / C++&lt;/li&gt;
+  &lt;li&gt;Raspberry / Processing&lt;/li&gt;
+  &lt;li&gt;Max msp&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>luciamaj</name></author><category term="project" /><category term="arduino" /><category term="raspberry" /><category term="gioco interattivo" /><summary type="html">Il tema: Giocondo è un gioco ispirato a Leonardo da Vinci, realizzato in occasione del cinquecentesimo anniversario della morte del famoso inventore toscano.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/giocondo/giocondo-logo-1.png" /></entry><entry><title type="html">Take Me Home - Il viaggio verso casa</title><link href="http://localhost:4000/take-me-home/" rel="alternate" type="text/html" title="Take Me Home - Il viaggio verso casa" /><published>2019-03-13T22:10:00+01:00</published><updated>2019-03-13T22:10:00+01:00</updated><id>http://localhost:4000/take-me-home</id><content type="html" xml:base="http://localhost:4000/take-me-home/">&lt;p&gt;&lt;img src=&quot;/assets/images/take-me-home/thm-man.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;progetto&quot;&gt;Progetto:&lt;/h1&gt;
+&lt;p&gt;“Take me home” è un gioco che parla di un viaggio. Che parla di scoperte. Che parla di aiutare il prossimo. Perché la casa non è l’edificio che abitiamo, ma gli affetti e le amicizie che stringiamo durante la nostra vita. La storia racconta il cammino di un viaggiatore che sta cercando di tornare a casa sua, superando numerosi ostacoli lungo il cammino.
+Durando l’avventura il giocatore dovrà interagire con diversi personaggi, ognuno di questi avrà una richiesta che dovremo decidere se soddisfare o meno.&lt;/p&gt;
+
+&lt;p&gt;Ma attenzione! La pericolosa notte cala in fretta e il giocatore potrà ben presto aver bisogno di un riparo. Ma chi sarà disposto ad aiutarlo?&lt;/p&gt;
+
+&lt;p&gt;“Take me home” è un gioco intimo, dove la colonna sonora toccante e la bellissima grafica old-style donando un’esperienza che tocca il cuore di chiunque scelga di giocarci.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/take-me-home/thm3.gif&quot; alt=&quot;image&quot; /&gt;
+&lt;img src=&quot;/assets/images/take-me-home/thm2.png&quot; alt=&quot;image&quot; /&gt;
+&lt;img src=&quot;/assets/images/take-me-home/tmh1.gif&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -32,11 +59,12 @@ Ma attenzione! La pericolosa notte cala in fretta e il giocatore potrà ben pres
 
 &lt;ul&gt;
   &lt;li&gt;Unity&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>luciamaj</name></author><category term="project" /><category term="unity" /><category term="game development" /><summary type="html">Progetto: “Take me home” è un gioco che parla di un viaggio. Che parla di scoperte. Che parla di aiutare il prossimo. Perché la casa non è l’edificio che abitiamo, ma gli affetti e le amicizie che stringiamo durante la nostra vita. La storia racconta il cammino di un viaggiatore che sta cercando di tornare a sua casa, superando numerosi ostacoli lungo il suo cammino. Durando l’avventura il giocatore dovrà interagire con diversi personaggi, ognuno di questi avrà una richiesta che dovremo decidere se soddisfare o meno. Ma attenzione! La pericolosa notte cala in fretta e il giocatore potrà ben presto aver bisogno di un riparo. Ma chi sarà disposto ad aiutarlo? “Take me home” è un gioco intimo, dove la colonna sonora toccante e la bellissima grafica old-style donando un’esperienza che tocca il cuore di chiunque scelga di giocarci.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png" /></entry><entry><title type="html">Would You - Un social network</title><link href="http://localhost:4000/would-you/" rel="alternate" type="text/html" title="Would You - Un social network" /><published>2019-03-13T22:10:00+01:00</published><updated>2019-03-13T22:10:00+01:00</updated><id>http://localhost:4000/would-you</id><content type="html" xml:base="http://localhost:4000/would-you/">&lt;h1 id=&quot;progetto&quot;&gt;Progetto:&lt;/h1&gt;
-&lt;p&gt;WouldYou è un social network sviluppato per iOS e Android. E’ pensato per tutte quelle persone impegnate, con solo qualche ora a disposizione, che vogliono cogliere l’attimo e trascorrere momenti indimenticabili con i propri amici.
-Grazie all’app è possibile programmare eventi e classificarli in una delle quattro categorie a disposizione (Sport, Cultura, Divertimento, Cibo) e rendere visibile ai propri amici o a tutti gli utenti dell’app il proprio evento. All’interno dell’evento (selezionabile o tramite una lista o direttamente su una mappa) è possibile partecipare ad una conversazione con tutti i partecipanti all’evento per organizzarsi al meglio.&lt;/p&gt;
+&lt;/ul&gt;</content><author><name>luciamaj</name></author><category term="project" /><category term="unity" /><category term="game development" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png" /></entry><entry><title type="html">WouldYou - Un social network</title><link href="http://localhost:4000/would-you/" rel="alternate" type="text/html" title="WouldYou - Un social network" /><published>2019-03-13T22:10:00+01:00</published><updated>2019-03-13T22:10:00+01:00</updated><id>http://localhost:4000/would-you</id><content type="html" xml:base="http://localhost:4000/would-you/">&lt;h1 id=&quot;progetto&quot;&gt;Progetto:&lt;/h1&gt;
+&lt;p&gt;WouldYou è un social network sviluppato per iOS e Android. E’ pensato per tutte quelle persone impegnate, con solo qualche ora a disposizione, che vogliono cogliere l’attimo e trascorrere momenti indimenticabili con i propri amici.&lt;/p&gt;
 
-&lt;p&gt;E’ stata sviluppata anche una piattaforma web per permettere agli amministratori, grazie a una pratica dashboard, di monitorare l’attività degli utenti.&lt;/p&gt;
+&lt;p&gt;Grazie all’app è possibile programmare eventi e classificarli in una delle quattro categorie a disposizione (Sport, Cultura, Divertimento, Cibo) e rendere visibile ai propri amici o a tutti gli utenti dell’app il proprio evento. All’interno dell’evento (selezionabile o tramite una lista o direttamente da una mappa) è possibile partecipare ad una conversazione con tutti i partecipanti all’evento per organizzarsi al meglio.&lt;/p&gt;
+
+&lt;p&gt;E’ stata sviluppata anche una piattaforma web che permette agli amministratori, grazie a una pratica dashboard, di monitorare l’attività degli utenti.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/wouldyou/dashboard.png&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
 
@@ -50,33 +78,12 @@ Grazie all’app è possibile programmare eventi e classificarli in una delle qu
   &lt;li&gt;Javascript&lt;/li&gt;
   &lt;li&gt;Swift&lt;/li&gt;
   &lt;li&gt;Adroid SKD&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>luciamaj</name></author><category term="project" /><category term="web development" /><category term="ios" /><category term="android" /><summary type="html">Progetto: WouldYou è un social network sviluppato per iOS e Android. E’ pensato per tutte quelle persone impegnate, con solo qualche ora a disposizione, che vogliono cogliere l’attimo e trascorrere momenti indimenticabili con i propri amici. Grazie all’app è possibile programmare eventi e classificarli in una delle quattro categorie a disposizione (Sport, Cultura, Divertimento, Cibo) e rendere visibile ai propri amici o a tutti gli utenti dell’app il proprio evento. All’interno dell’evento (selezionabile o tramite una lista o direttamente su una mappa) è possibile partecipare ad una conversazione con tutti i partecipanti all’evento per organizzarsi al meglio.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png" /></entry><entry><title type="html">Giocondo - In memoria di Leonardo</title><link href="http://localhost:4000/giocondo/" rel="alternate" type="text/html" title="Giocondo - In memoria di Leonardo" /><published>2019-03-13T22:10:00+01:00</published><updated>2019-03-13T22:10:00+01:00</updated><id>http://localhost:4000/giocondo</id><content type="html" xml:base="http://localhost:4000/giocondo/">&lt;h1 id=&quot;il-tema&quot;&gt;Il tema:&lt;/h1&gt;
-&lt;p&gt;Giocondo è un gioco è basato sul Leonardo da Vinci, realizzato in occasione del  cinquecentesimo anniversario della morte del famoso inventore toscano.&lt;/p&gt;
-
-&lt;p&gt;Si è tratta di un gioco interattivo che racconta tecnologie e strumenti moderni, ripercorrendo a ritroso la loro storia fino al Millecinquecento, attraverso le invenzioni e gli inventori che nei secoli ne hanno permesso la loro attuale realizzazione.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/giocondo/giocondo-gif.gif&quot; alt=&quot;gif&quot; /&gt;
-&lt;img src=&quot;/assets/images/giocondo/giocondo-1.png&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
-
-&lt;h1 id=&quot;il-concept&quot;&gt;Il concept:&lt;/h1&gt;
-&lt;p&gt;Le sei invenzioni che il gioco permette di esplorare sono l’elicottero, la robotica, le immersioni subacquee, l’aviazione, il ritratto femminile e il paracadute. 
-Attraverso una serie di domande e indizi riguardanti una di queste sei tematiche, Giocondo spinge il giocatore a cercare tra i tasselli quelli che riportano la risposta alla domanda visualizzata sullo schermo al centro del gioco e proiettata sulle pareti della stanza in cui è posto Giocondo.
-Il giocatore verifica la correttezza della risposta attaccando il tassello al corpo principale del gioco e continua così fino a riempire tutti gli spazi destinati a raccogliere i tasselli, completando il livello e ripercorrendo la storia dell’invenzione fino al Millecinquecento.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/giocondo/giocondo-2.png&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h1 id=&quot;strumenti&quot;&gt;Strumenti&lt;/h1&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Arduino / C++&lt;/li&gt;
-  &lt;li&gt;Raspberry / Processing&lt;/li&gt;
-  &lt;li&gt;Max msp&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>luciamaj</name></author><category term="project" /><category term="arduino" /><category term="raspberry" /><category term="gioco interattivo" /><summary type="html">Il tema: Giocondo è un gioco è basato sul Leonardo da Vinci, realizzato in occasione del cinquecentesimo anniversario della morte del famoso inventore toscano.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/giocondo/giocondo-logo-1.png" /></entry><entry><title type="html">Hidden Waste - I nostri sprechi invisibili</title><link href="http://localhost:4000/hidden-waste/" rel="alternate" type="text/html" title="Hidden Waste - I nostri sprechi invisibili" /><published>2019-03-13T22:10:00+01:00</published><updated>2019-03-13T22:10:00+01:00</updated><id>http://localhost:4000/hidden-waste</id><content type="html" xml:base="http://localhost:4000/hidden-waste/">&lt;p&gt;&lt;img src=&quot;/assets/images/hidden-waste/hw1.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;/ul&gt;</content><author><name>luciamaj</name></author><category term="project" /><category term="web development" /><category term="ios" /><category term="android" /><summary type="html">Progetto: WouldYou è un social network sviluppato per iOS e Android. E’ pensato per tutte quelle persone impegnate, con solo qualche ora a disposizione, che vogliono cogliere l’attimo e trascorrere momenti indimenticabili con i propri amici.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png" /></entry><entry><title type="html">Hidden Waste - I nostri sprechi invisibili</title><link href="http://localhost:4000/hidden-waste/" rel="alternate" type="text/html" title="Hidden Waste - I nostri sprechi invisibili" /><published>2019-03-13T22:10:00+01:00</published><updated>2019-03-13T22:10:00+01:00</updated><id>http://localhost:4000/hidden-waste</id><content type="html" xml:base="http://localhost:4000/hidden-waste/">&lt;p&gt;&lt;img src=&quot;/assets/images/hidden-waste/hw1.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;progetto&quot;&gt;Progetto:&lt;/h1&gt;
-&lt;p&gt;Hidden Waste è un’installazione interattiva frutto di una lunga ricerca sul tema dei consumo energetico domestico e l’inquinamento ambientale che ne consegue. Il suo scopo è quello di sensibilizzare e incuriosire chi interagisce con l’installazione sulla quantità di CO2 prodotta da alcuni elettrodomestici comuni, come l’asciugacapelli o il frigorifero. Attivato dallo spettatore un elettrodomenstico la quantità di CO2 che questo produce viene mostrata a schermo in modalità che variano randomicamente. La CO2 prodotta viene infatti, per esempio, mostrata in “alberi”, visualizzando sullo schermo in tempo reali quanti alberi sono necessari per smaltire il quantitativo di CO2 rilasciato nell’ambiente.&lt;/p&gt;
+&lt;p&gt;Hidden Waste è un’installazione interattiva frutto di una lunga ricerca sul tema del consumo energetico domestico e dell’inquinamento ambientale che ne consegue.&lt;/p&gt;
+
+&lt;p&gt;Il suo scopo è quello di sensibilizzare e incuriosire chi interagisce con l’installazione sulla quantità di anidride carbonica prodotta da alcuni elettrodomestici comuni, come l’asciugacapelli o il frigorifero. Quando un visitatore attiva un elettrodomenstico la quantità di CO2 che questo produce viene mostrata a schermo in modalità che variano randomicamente. La CO2 prodotta viene infatti, per esempio, mostrata utilizzando come simbolo degli alberelli, vengono visualizzati così sullo schermo in tempo reale tanti alberi quanti sono necessari per smaltire la CO2 rilasciata nell’ambiente dall’elettrodomestico.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/hidden-waste/hw2.jpg&quot; alt=&quot;image&quot; /&gt;
 &lt;img src=&quot;/assets/images/hidden-waste/hw3.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
@@ -88,4 +95,24 @@ Il giocatore verifica la correttezza della risposta attaccando il tassello al co
 &lt;ul&gt;
   &lt;li&gt;Arduino / C++&lt;/li&gt;
   &lt;li&gt;Max MSP&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>luciamaj</name></author><category term="project" /><category term="interactive installation" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/hidden-waste/hw-logo.png" /></entry></feed>
+&lt;/ul&gt;</content><author><name>luciamaj</name></author><category term="project" /><category term="interactive installation" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/hidden-waste/hw-logo.png" /></entry><entry><title type="html">SeriesInTime - Per gli amanti delle serie</title><link href="http://localhost:4000/series-in-time/" rel="alternate" type="text/html" title="SeriesInTime - Per gli amanti delle serie" /><published>2019-03-13T20:10:00+01:00</published><updated>2019-03-13T20:10:00+01:00</updated><id>http://localhost:4000/series-in-time</id><content type="html" xml:base="http://localhost:4000/series-in-time/">&lt;p&gt;&lt;img src=&quot;/assets/images/series-in-time/sit1.png&quot; alt=&quot;image&quot; /&gt;
+&lt;img src=&quot;/assets/images/series-in-time/sit2.png&quot; alt=&quot;image&quot; /&gt;
+&lt;img src=&quot;/assets/images/series-in-time/sit3.png&quot; alt=&quot;image&quot; /&gt;
+&lt;img src=&quot;/assets/images/series-in-time/sit4.png&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;progetto&quot;&gt;Progetto:&lt;/h1&gt;
+&lt;p&gt;SeriesInTime è un Web App pensata per tutti gli amanti delle serie TV. Sulla schermata principale puoi sfogliare le serie più in voga del momento oppure cercare all’interno di un immenso database la tua serie preferita.&lt;/p&gt;
+
+&lt;p&gt;Hai la possibilità di leggere tutte le informazioni riguardanti la serie e un breve sommario di ogni episodio, oppure consultare direttamente il sito ufficiale della serie o goderti un video di anteprima.&lt;/p&gt;
+
+&lt;p&gt;Ma non solo! SeriesInTime è lo strumento perfetto per organizzare la tua prossima maratona televisiva. E’ infatti possibile selezionare le stagioni e gli episodi vuoi vedere tutti d’un fiato e SeriesInTime farà in lavoro al posto tuo, informandoti di quante ore, minuti e secondi totali passerai di fronte allo schermo o, scelto il numero di episodi per giorno, di quanti giorni impiegherai per goderti la serie del tuo cuore.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&quot;strumenti&quot;&gt;Strumenti&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;HTML5&lt;/li&gt;
+  &lt;li&gt;CSS3&lt;/li&gt;
+  &lt;li&gt;Javascript (jQuery)&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>luciamaj</name></author><category term="project" /><category term="web development" /><category term="web app" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png" /></entry></feed>
