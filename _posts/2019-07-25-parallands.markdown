@@ -1,5 +1,5 @@
 ---
-title: "Parallands"
+title: "Parallands - Un'avventura grafica tra il passato e il futuro"
 layout: post
 date: 2019-03-13 23:10
 tag: [game, ios]
