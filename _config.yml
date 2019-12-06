@@ -14,7 +14,7 @@ picture: assets/images/profile.png
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: assets/pdfs/resumee.pdf
+resume-url: assets/pdfs/curriculum.pdf
 
 url: https://luciamaj.github.io
 # your url: http://USERNAME.github.io
