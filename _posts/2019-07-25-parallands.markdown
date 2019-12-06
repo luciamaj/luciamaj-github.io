@@ -1,5 +1,5 @@
 ---
-title: "Another Vision - L'estetica del glitch"
+title: "Parallands"
 layout: post
 date: 2019-03-13 23:10
 tag: [game, ios]
