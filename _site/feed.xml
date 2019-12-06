@@ -1,4 +1,19 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-03-15T01:24:17+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Lucia Maj</title><subtitle>Ciao, sono Lucia Maj, freelance developer con sede a Milano.</subtitle><entry><title type="html">Another Vision - L’estetica del glitch</title><link href="http://localhost:4000/another-vision/" rel="alternate" type="text/html" title="Another Vision - L'estetica del glitch" /><published>2019-03-13T23:10:00+01:00</published><updated>2019-03-13T23:10:00+01:00</updated><id>http://localhost:4000/another-vision</id><content type="html" xml:base="http://localhost:4000/another-vision/">&lt;h1 id=&quot;progetto&quot;&gt;Progetto:&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="https://luciamaj.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://luciamaj.github.io/" rel="alternate" type="text/html" /><updated>2019-12-06T23:38:38+01:00</updated><id>https://luciamaj.github.io/feed.xml</id><title type="html">Lucia Maj</title><subtitle>Ciao, sono Lucia Maj, freelance developer con sede a Milano.</subtitle><entry><title type="html">Another Vision - L’estetica del glitch</title><link href="https://luciamaj.github.io/parallands/" rel="alternate" type="text/html" title="Another Vision - L'estetica del glitch" /><published>2019-03-13T23:10:00+01:00</published><updated>2019-03-13T23:10:00+01:00</updated><id>https://luciamaj.github.io/parallands</id><content type="html" xml:base="https://luciamaj.github.io/parallands/">&lt;h1 id=&quot;progetto&quot;&gt;Progetto:&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/parallands/parallands-1.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Media “Parallands” è un’avventura grafico-narrativa per dispositivi iOS, in cui il giocatore ha il compito di scansionare oggetti del mondo reale per la risoluzione di enigmi. L’obiettivo del progetto è prendere ispirazione dai videogiochi della nostra infanzia e arricchirli con le tecnologie offerte dai moderni dispositivi mobile. Abbiamo scelto di utilizzare il machine learning per il riconoscimento degli oggetti, un tipo di tecnologia in forte crescita e ancora poco utilizzata in ambito di gaming.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/parallands/parallands-2.jpg&quot; alt=&quot;image&quot; /&gt;
+&lt;img src=&quot;/assets/images/parallands/parallands-3.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&quot;con-cosa-ho-programmato&quot;&gt;Con cosa ho programmato&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Swift (Spritekit)&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>luciamaj</name></author><category term="project" /><category term="game" /><category term="ios" /><summary type="html">Progetto:</summary></entry><entry><title type="html">Another Vision - L’estetica del glitch</title><link href="https://luciamaj.github.io/another-vision/" rel="alternate" type="text/html" title="Another Vision - L'estetica del glitch" /><published>2019-03-13T23:10:00+01:00</published><updated>2019-03-13T23:10:00+01:00</updated><id>https://luciamaj.github.io/another-vision</id><content type="html" xml:base="https://luciamaj.github.io/another-vision/">&lt;h1 id=&quot;progetto&quot;&gt;Progetto:&lt;/h1&gt;
 &lt;p&gt;L’installazione vuole immergere lo spettatore in un ambiente nel quale entrerà completamente, con lo scopo di fare un viaggio interiore per ricostruire la propria immagine. L’obiettivo è quello di stimolare una riflessione sull’importanza che ha la collettività nella declinazione della propria immagine.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/another-vision/another-vision-gif.gif&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
@@ -12,11 +27,11 @@ La loro identità si delineerà con precisione solamente attraverso l’interazi
 
 &lt;hr /&gt;
 
-&lt;h1 id=&quot;strumenti&quot;&gt;Strumenti&lt;/h1&gt;
+&lt;h1 id=&quot;con-cosa-ho-programmato&quot;&gt;Con cosa ho programmato&lt;/h1&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;MAX Msp&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>luciamaj</name></author><category term="project" /><category term="interactive installation" /><summary type="html">Progetto: L’installazione vuole immergere lo spettatore in un ambiente nel quale entrerà completamente, con lo scopo di fare un viaggio interiore per ricostruire la propria immagine. L’obiettivo è quello di stimolare una riflessione sull’importanza che ha la collettività nella declinazione della propria immagine.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png" /></entry><entry><title type="html">Giocondo - In memoria di Leonardo</title><link href="http://localhost:4000/giocondo/" rel="alternate" type="text/html" title="Giocondo - In memoria di Leonardo" /><published>2019-03-13T23:09:00+01:00</published><updated>2019-03-13T23:09:00+01:00</updated><id>http://localhost:4000/giocondo</id><content type="html" xml:base="http://localhost:4000/giocondo/">&lt;h1 id=&quot;il-tema&quot;&gt;Il tema:&lt;/h1&gt;
+  &lt;li&gt;Max MSP&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>luciamaj</name></author><category term="project" /><category term="interactive installation" /><summary type="html">Progetto: L’installazione vuole immergere lo spettatore in un ambiente nel quale entrerà completamente, con lo scopo di fare un viaggio interiore per ricostruire la propria immagine. L’obiettivo è quello di stimolare una riflessione sull’importanza che ha la collettività nella declinazione della propria immagine.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png" /></entry><entry><title type="html">Giocondo - In memoria di Leonardo</title><link href="https://luciamaj.github.io/giocondo/" rel="alternate" type="text/html" title="Giocondo - In memoria di Leonardo" /><published>2019-03-13T23:09:00+01:00</published><updated>2019-03-13T23:09:00+01:00</updated><id>https://luciamaj.github.io/giocondo</id><content type="html" xml:base="https://luciamaj.github.io/giocondo/">&lt;h1 id=&quot;il-tema&quot;&gt;Il tema:&lt;/h1&gt;
 &lt;p&gt;Giocondo è un gioco ispirato a Leonardo da Vinci, realizzato in occasione del  cinquecentesimo anniversario della morte del famoso inventore toscano.&lt;/p&gt;
 
 &lt;p&gt;Si è tratta di un gioco interattivo che racconta tecnologie e strumenti moderni, ripercorrendo a ritroso la loro storia fino al Millecinquecento, attraverso le invenzioni e gli inventori che nei secoli ne hanno permesso la loro attuale realizzazione.&lt;/p&gt;
@@ -33,13 +48,27 @@ Il giocatore verifica la correttezza della risposta attaccando il tassello al co
 
 &lt;hr /&gt;
 
-&lt;h1 id=&quot;strumenti&quot;&gt;Strumenti&lt;/h1&gt;
+&lt;h1 id=&quot;con-cosa-ho-programmato&quot;&gt;Con cosa ho programmato&lt;/h1&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Arduino / C++&lt;/li&gt;
   &lt;li&gt;Raspberry / Processing&lt;/li&gt;
   &lt;li&gt;Max msp&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>luciamaj</name></author><category term="project" /><category term="arduino" /><category term="raspberry" /><category term="gioco interattivo" /><summary type="html">Il tema: Giocondo è un gioco ispirato a Leonardo da Vinci, realizzato in occasione del cinquecentesimo anniversario della morte del famoso inventore toscano.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/giocondo/giocondo-logo-1.png" /></entry><entry><title type="html">Take Me Home - Il viaggio verso casa</title><link href="http://localhost:4000/take-me-home/" rel="alternate" type="text/html" title="Take Me Home - Il viaggio verso casa" /><published>2019-03-13T22:10:00+01:00</published><updated>2019-03-13T22:10:00+01:00</updated><id>http://localhost:4000/take-me-home</id><content type="html" xml:base="http://localhost:4000/take-me-home/">&lt;p&gt;&lt;img src=&quot;/assets/images/take-me-home/thm-man.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;/ul&gt;</content><author><name>luciamaj</name></author><category term="project" /><category term="arduino" /><category term="raspberry" /><category term="gioco interattivo" /><summary type="html">Il tema: Giocondo è un gioco ispirato a Leonardo da Vinci, realizzato in occasione del cinquecentesimo anniversario della morte del famoso inventore toscano.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://luciamaj.github.io/assets/images/giocondo/giocondo-logo-1.png" /></entry><entry><title type="html">Fantaisie - Un gioco per la Global Game Jame</title><link href="https://luciamaj.github.io/fantaisie/" rel="alternate" type="text/html" title="Fantaisie - Un gioco per la Global Game Jame" /><published>2019-03-13T22:10:00+01:00</published><updated>2019-03-13T22:10:00+01:00</updated><id>https://luciamaj.github.io/fantaisie</id><content type="html" xml:base="https://luciamaj.github.io/fantaisie/">&lt;p&gt;&lt;img src=&quot;/assets/images/fantaisie/fantaisie.png&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;progetto&quot;&gt;Progetto:&lt;/h1&gt;
+&lt;p&gt;Fantaisie è un combact-arena 1v1 in cui ogni giocatore può controllare 3 giocattoli.
+I protagonisti sono due bambini che infondono la vita nei loro giocattoli attraverso l’immaginazione, per sfidarsi un duello avvincente e divertente. 
+L’obiettivo è quello di sconfiggere tutti i giocattoli dell’altro giocatore entro il tempo limite.
+Il gioco è stato realizzato in occasione della Global Game Jam tenutasi a Milano nel Dicembre del 2017.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&quot;con-cosa-ho-programmato&quot;&gt;Con cosa ho programmato&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Unity&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>luciamaj</name></author><category term="project" /><category term="unity" /><category term="game development" /><summary type="html"></summary></entry><entry><title type="html">Take Me Home - Il viaggio verso casa</title><link href="https://luciamaj.github.io/take-me-home/" rel="alternate" type="text/html" title="Take Me Home - Il viaggio verso casa" /><published>2019-03-13T22:10:00+01:00</published><updated>2019-03-13T22:10:00+01:00</updated><id>https://luciamaj.github.io/take-me-home</id><content type="html" xml:base="https://luciamaj.github.io/take-me-home/">&lt;p&gt;&lt;img src=&quot;/assets/images/take-me-home/thm-man.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;progetto&quot;&gt;Progetto:&lt;/h1&gt;
 &lt;p&gt;“Take me home” è un gioco che parla di un viaggio. Che parla di scoperte. Che parla di aiutare il prossimo. Perché la casa non è l’edificio che abitiamo, ma gli affetti e le amicizie che stringiamo durante la nostra vita. La storia racconta il cammino di un viaggiatore che sta cercando di tornare a casa sua, superando numerosi ostacoli lungo il cammino.
@@ -55,30 +84,11 @@ Durando l’avventura il giocatore dovrà interagire con diversi personaggi, ogn
 
 &lt;hr /&gt;
 
-&lt;h1 id=&quot;strumenti&quot;&gt;Strumenti&lt;/h1&gt;
+&lt;h1 id=&quot;con-cosa-ho-programmato&quot;&gt;Con cosa ho programmato&lt;/h1&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Unity&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>luciamaj</name></author><category term="project" /><category term="unity" /><category term="game development" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png" /></entry><entry><title type="html">WouldYou - Un social network</title><link href="http://localhost:4000/would-you/" rel="alternate" type="text/html" title="WouldYou - Un social network" /><published>2019-03-13T22:10:00+01:00</published><updated>2019-03-13T22:10:00+01:00</updated><id>http://localhost:4000/would-you</id><content type="html" xml:base="http://localhost:4000/would-you/">&lt;h1 id=&quot;progetto&quot;&gt;Progetto:&lt;/h1&gt;
-&lt;p&gt;WouldYou è un social network sviluppato per iOS e Android. E’ pensato per tutte quelle persone impegnate, con solo qualche ora a disposizione, che vogliono cogliere l’attimo e trascorrere momenti indimenticabili con i propri amici.&lt;/p&gt;
-
-&lt;p&gt;Grazie all’app è possibile programmare eventi e classificarli in una delle quattro categorie a disposizione (Sport, Cultura, Divertimento, Cibo) e rendere visibile ai propri amici o a tutti gli utenti dell’app il proprio evento. All’interno dell’evento (selezionabile o tramite una lista o direttamente da una mappa) è possibile partecipare ad una conversazione con tutti i partecipanti all’evento per organizzarsi al meglio.&lt;/p&gt;
-
-&lt;p&gt;E’ stata sviluppata anche una piattaforma web che permette agli amministratori, grazie a una pratica dashboard, di monitorare l’attività degli utenti.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/wouldyou/dashboard.png&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h1 id=&quot;strumenti&quot;&gt;Strumenti&lt;/h1&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;HTML5&lt;/li&gt;
-  &lt;li&gt;CSS3&lt;/li&gt;
-  &lt;li&gt;Javascript&lt;/li&gt;
-  &lt;li&gt;Swift&lt;/li&gt;
-  &lt;li&gt;Adroid SKD&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>luciamaj</name></author><category term="project" /><category term="web development" /><category term="ios" /><category term="android" /><summary type="html">Progetto: WouldYou è un social network sviluppato per iOS e Android. E’ pensato per tutte quelle persone impegnate, con solo qualche ora a disposizione, che vogliono cogliere l’attimo e trascorrere momenti indimenticabili con i propri amici.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png" /></entry><entry><title type="html">Hidden Waste - I nostri sprechi invisibili</title><link href="http://localhost:4000/hidden-waste/" rel="alternate" type="text/html" title="Hidden Waste - I nostri sprechi invisibili" /><published>2019-03-13T22:10:00+01:00</published><updated>2019-03-13T22:10:00+01:00</updated><id>http://localhost:4000/hidden-waste</id><content type="html" xml:base="http://localhost:4000/hidden-waste/">&lt;p&gt;&lt;img src=&quot;/assets/images/hidden-waste/hw1.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;/ul&gt;</content><author><name>luciamaj</name></author><category term="project" /><category term="unity" /><category term="game development" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png" /></entry><entry><title type="html">Hidden Waste - I nostri sprechi invisibili</title><link href="https://luciamaj.github.io/hidden-waste/" rel="alternate" type="text/html" title="Hidden Waste - I nostri sprechi invisibili" /><published>2019-03-13T22:10:00+01:00</published><updated>2019-03-13T22:10:00+01:00</updated><id>https://luciamaj.github.io/hidden-waste</id><content type="html" xml:base="https://luciamaj.github.io/hidden-waste/">&lt;p&gt;&lt;img src=&quot;/assets/images/hidden-waste/hw1.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;progetto&quot;&gt;Progetto:&lt;/h1&gt;
 &lt;p&gt;Hidden Waste è un’installazione interattiva frutto di una lunga ricerca sul tema del consumo energetico domestico e dell’inquinamento ambientale che ne consegue.&lt;/p&gt;
@@ -90,12 +100,31 @@ Durando l’avventura il giocatore dovrà interagire con diversi personaggi, ogn
 
 &lt;hr /&gt;
 
-&lt;h1 id=&quot;strumenti&quot;&gt;Strumenti&lt;/h1&gt;
+&lt;h1 id=&quot;con-cosa-ho-programmato&quot;&gt;Con cosa ho programmato&lt;/h1&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Arduino / C++&lt;/li&gt;
   &lt;li&gt;Max MSP&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>luciamaj</name></author><category term="project" /><category term="interactive installation" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/hidden-waste/hw-logo.png" /></entry><entry><title type="html">SeriesInTime - Per gli amanti delle serie</title><link href="http://localhost:4000/series-in-time/" rel="alternate" type="text/html" title="SeriesInTime - Per gli amanti delle serie" /><published>2019-03-13T20:10:00+01:00</published><updated>2019-03-13T20:10:00+01:00</updated><id>http://localhost:4000/series-in-time</id><content type="html" xml:base="http://localhost:4000/series-in-time/">&lt;p&gt;&lt;img src=&quot;/assets/images/series-in-time/sit1.png&quot; alt=&quot;image&quot; /&gt;
+&lt;/ul&gt;</content><author><name>luciamaj</name></author><category term="project" /><category term="interactive installation" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://luciamaj.github.io/assets/images/hidden-waste/hw-logo.png" /></entry><entry><title type="html">WouldYou - Un social network</title><link href="https://luciamaj.github.io/would-you/" rel="alternate" type="text/html" title="WouldYou - Un social network" /><published>2019-03-13T22:10:00+01:00</published><updated>2019-03-13T22:10:00+01:00</updated><id>https://luciamaj.github.io/would-you</id><content type="html" xml:base="https://luciamaj.github.io/would-you/">&lt;h1 id=&quot;progetto&quot;&gt;Progetto:&lt;/h1&gt;
+&lt;p&gt;WouldYou è un social network sviluppato per iOS e Android. E’ pensato per tutte quelle persone impegnate, con solo qualche ora a disposizione, che vogliono cogliere l’attimo e trascorrere momenti indimenticabili con i propri amici.&lt;/p&gt;
+
+&lt;p&gt;Grazie all’app è possibile programmare eventi e classificarli in una delle quattro categorie a disposizione (Sport, Cultura, Divertimento, Cibo) e rendere visibile ai propri amici o a tutti gli utenti dell’app il proprio evento. All’interno dell’evento (selezionabile o tramite una lista o direttamente da una mappa) è possibile partecipare ad una conversazione con tutti i partecipanti all’evento per organizzarsi al meglio.&lt;/p&gt;
+
+&lt;p&gt;E’ stata sviluppata anche una piattaforma web che permette agli amministratori, grazie a una pratica dashboard, di monitorare l’attività degli utenti.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/wouldyou/dashboard.png&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&quot;con-cosa-ho-programmato&quot;&gt;Con cosa ho programmato&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;HTML5&lt;/li&gt;
+  &lt;li&gt;CSS3&lt;/li&gt;
+  &lt;li&gt;Javascript&lt;/li&gt;
+  &lt;li&gt;Swift&lt;/li&gt;
+  &lt;li&gt;Adroid SKD&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>luciamaj</name></author><category term="project" /><category term="web development" /><category term="ios" /><category term="android" /><summary type="html">Progetto: WouldYou è un social network sviluppato per iOS e Android. E’ pensato per tutte quelle persone impegnate, con solo qualche ora a disposizione, che vogliono cogliere l’attimo e trascorrere momenti indimenticabili con i propri amici.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png" /></entry><entry><title type="html">SeriesInTime - Per gli amanti delle serie</title><link href="https://luciamaj.github.io/series-in-time/" rel="alternate" type="text/html" title="SeriesInTime - Per gli amanti delle serie" /><published>2019-03-13T20:10:00+01:00</published><updated>2019-03-13T20:10:00+01:00</updated><id>https://luciamaj.github.io/series-in-time</id><content type="html" xml:base="https://luciamaj.github.io/series-in-time/">&lt;p&gt;&lt;img src=&quot;/assets/images/series-in-time/sit1.png&quot; alt=&quot;image&quot; /&gt;
 &lt;img src=&quot;/assets/images/series-in-time/sit2.png&quot; alt=&quot;image&quot; /&gt;
 &lt;img src=&quot;/assets/images/series-in-time/sit3.png&quot; alt=&quot;image&quot; /&gt;
 &lt;img src=&quot;/assets/images/series-in-time/sit4.png&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
@@ -109,10 +138,27 @@ Durando l’avventura il giocatore dovrà interagire con diversi personaggi, ogn
 
 &lt;hr /&gt;
 
-&lt;h1 id=&quot;strumenti&quot;&gt;Strumenti&lt;/h1&gt;
+&lt;h1 id=&quot;con-cosa-ho-programmato&quot;&gt;Con cosa ho programmato&lt;/h1&gt;
 
 &lt;ul&gt;
   &lt;li&gt;HTML5&lt;/li&gt;
   &lt;li&gt;CSS3&lt;/li&gt;
   &lt;li&gt;Javascript (jQuery)&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>luciamaj</name></author><category term="project" /><category term="web development" /><category term="web app" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png" /></entry></feed>
+&lt;/ul&gt;</content><author><name>luciamaj</name></author><category term="project" /><category term="web development" /><category term="web app" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png" /></entry><entry><title type="html">Manii - Per imparare l’alfabeto LIS</title><link href="https://luciamaj.github.io/manii/" rel="alternate" type="text/html" title="Manii - Per imparare l'alfabeto LIS" /><published>2019-03-13T20:10:00+01:00</published><updated>2019-03-13T20:10:00+01:00</updated><id>https://luciamaj.github.io/manii</id><content type="html" xml:base="https://luciamaj.github.io/manii/">&lt;p&gt;&lt;img src=&quot;/assets/images/manii/manii-1.png&quot; alt=&quot;image&quot; /&gt;
+&lt;img src=&quot;/assets/images/manii/manii-2.png&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;progetto&quot;&gt;Progetto:&lt;/h1&gt;
+&lt;p&gt;Manii è un gioco interattivo didattico che attraverso il suo aspetto divertente aiuta l’apprendimento dell’alfabeto LIS e l’integrazione del sordo-udente. 
+Cerca di migliorare l’integrazione tra bambini udenti e bambini sordi partendo dalla scala dell’infanzia dove l’apprendimento è molto veloce e spesso legato alla gestualità.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/manii/manii-3.png&quot; alt=&quot;image&quot; /&gt;
+&lt;img src=&quot;/assets/images/manii/manii-4.png&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&quot;con-cosa-ho-programmato&quot;&gt;Con cosa ho programmato&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Arduino&lt;/li&gt;
+  &lt;li&gt;C++&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>luciamaj</name></author><category term="project" /><category term="arduino" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://luciamaj.github.io/assets/images/manii/manii-logo.png" /></entry></feed>
